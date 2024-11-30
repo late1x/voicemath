@@ -1,0 +1,16 @@
+Flask
+Flask-Cors
+Pillow
+idx2numpy
+imageio
+imutils
+matplotlib
+numpy==1.25.0
+tensorflow<2.11
+bison
+ply
+opencv-python
+h5py
+Markdown
+twine
+openai
